@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Doc Alma Lizcano\\dropbox\\programacion\\Curso Fundamentos de C# con Net Core\\etapa4\\Etapa1.csproj",
+      "projectUniqueName": "C:\\Users\\Doc Alma Lizcano\\dropbox\\programacion\\Curso Fundamentos de C# con Net Core\\Desafio_Info\\Etapa1.csproj",
       "projectName": "Etapa1",
-      "projectPath": "C:\\Users\\Doc Alma Lizcano\\dropbox\\programacion\\Curso Fundamentos de C# con Net Core\\etapa4\\Etapa1.csproj",
+      "projectPath": "C:\\Users\\Doc Alma Lizcano\\dropbox\\programacion\\Curso Fundamentos de C# con Net Core\\Desafio_Info\\Etapa1.csproj",
       "packagesPath": "C:\\Users\\Doc Alma Lizcano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Doc Alma Lizcano\\dropbox\\programacion\\Curso Fundamentos de C# con Net Core\\etapa4\\obj\\",
+      "outputPath": "C:\\Users\\Doc Alma Lizcano\\dropbox\\programacion\\Curso Fundamentos de C# con Net Core\\Desafio_Info\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Doc Alma Lizcano\\AppData\\Roaming\\NuGet\\NuGet.Config",

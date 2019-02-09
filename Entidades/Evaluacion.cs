@@ -17,5 +17,7 @@ namespace CorEscuela.Entidades
         {
             return $"{Nota}, {Alumno.Nombre}, {Asignatura.Nombre}";
         }
+
+
     }
 }

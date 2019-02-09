@@ -42,3 +42,14 @@ C:\Users\Doc Alma Lizcano\dropbox\programacion\Curso Fundamentos de C# con Net C
 C:\Users\Doc Alma Lizcano\dropbox\programacion\Curso Fundamentos de C# con Net Core\etapa4\obj\Debug\netcoreapp2.2\Etapa1.AssemblyInfo.cs
 C:\Users\Doc Alma Lizcano\dropbox\programacion\Curso Fundamentos de C# con Net Core\etapa4\obj\Debug\netcoreapp2.2\Etapa1.dll
 C:\Users\Doc Alma Lizcano\dropbox\programacion\Curso Fundamentos de C# con Net Core\etapa4\obj\Debug\netcoreapp2.2\Etapa1.pdb
+C:\Users\Doc Alma Lizcano\dropbox\programacion\Curso Fundamentos de C# con Net Core\Desafio_Info\bin\Debug\netcoreapp2.2\Etapa1.deps.json
+C:\Users\Doc Alma Lizcano\dropbox\programacion\Curso Fundamentos de C# con Net Core\Desafio_Info\bin\Debug\netcoreapp2.2\Etapa1.runtimeconfig.json
+C:\Users\Doc Alma Lizcano\dropbox\programacion\Curso Fundamentos de C# con Net Core\Desafio_Info\bin\Debug\netcoreapp2.2\Etapa1.runtimeconfig.dev.json
+C:\Users\Doc Alma Lizcano\dropbox\programacion\Curso Fundamentos de C# con Net Core\Desafio_Info\bin\Debug\netcoreapp2.2\Etapa1.dll
+C:\Users\Doc Alma Lizcano\dropbox\programacion\Curso Fundamentos de C# con Net Core\Desafio_Info\bin\Debug\netcoreapp2.2\Etapa1.pdb
+C:\Users\Doc Alma Lizcano\dropbox\programacion\Curso Fundamentos de C# con Net Core\Desafio_Info\obj\Debug\netcoreapp2.2\Etapa1.csprojAssemblyReference.cache
+C:\Users\Doc Alma Lizcano\dropbox\programacion\Curso Fundamentos de C# con Net Core\Desafio_Info\obj\Debug\netcoreapp2.2\Etapa1.csproj.CoreCompileInputs.cache
+C:\Users\Doc Alma Lizcano\dropbox\programacion\Curso Fundamentos de C# con Net Core\Desafio_Info\obj\Debug\netcoreapp2.2\Etapa1.AssemblyInfoInputs.cache
+C:\Users\Doc Alma Lizcano\dropbox\programacion\Curso Fundamentos de C# con Net Core\Desafio_Info\obj\Debug\netcoreapp2.2\Etapa1.AssemblyInfo.cs
+C:\Users\Doc Alma Lizcano\dropbox\programacion\Curso Fundamentos de C# con Net Core\Desafio_Info\obj\Debug\netcoreapp2.2\Etapa1.dll
+C:\Users\Doc Alma Lizcano\dropbox\programacion\Curso Fundamentos de C# con Net Core\Desafio_Info\obj\Debug\netcoreapp2.2\Etapa1.pdb

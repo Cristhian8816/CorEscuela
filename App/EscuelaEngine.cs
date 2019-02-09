@@ -24,7 +24,7 @@ namespace CorEscuela.Entidades
         {
             var lista = new List<Evaluacion>();
             foreach (var curso in Escuela.Cursos)
-            {
+            {                
                 foreach (var asignatura in curso.Asignaturas)
                 {
                     foreach (var alumno in curso.Alumnos)
@@ -38,10 +38,10 @@ namespace CorEscuela.Entidades
                                 Asignatura = asignatura,
                                 Nombre = $"{asignatura.Nombre} evaluacion#{i+1}",
                                 Nota = (float)(5* rnd.NextDouble()),
-                                Alumno = alumno
-                            };
+                                Alumno = alumno                                
+                            };                            
                             lista.Add(evaluacion);
-                        }                          
+                        }                                                 
                     }
                 }
             }
@@ -63,9 +63,9 @@ namespace CorEscuela.Entidades
         }
         private List<Alumno> GenerarAlumnosAlAzar(int cantidad)
         {
-            string[] nombre1 = {"Alba","Felipe","Eusebio","Farid","Donald","Alvaro","Nicolas"};
-            string[] Apellido1 = {"Ruiz","Sarmiento","Uribe","Maduri","Trump","Toledo","Herrera"};
-            string[] nombre2 = {"Freddy","Anabel","Rick","Murty","Silvana","Diomedes","Nicomedes","Teodoro"};
+            string[] nombre1 = {"Cristhian","Andres","Carlos","Fabio","Javier"};
+            string[] Apellido1 = {"Lizcano","Ortiz","Silva","Prada"};
+            string[] nombre2 = {"Julian","Juan","Jose"};
 
             var listaAlumnos =  from n1 in nombre1 //Esto es un producto cartesiano de los tres arreglos arriba creados
                                 from n2 in nombre2
@@ -88,7 +88,7 @@ namespace CorEscuela.Entidades
             
             foreach(var c in Escuela.Cursos)
             {
-                int cantRandom = rnd.Next(5, 20);
+                int cantRandom = rnd.Next(5, 5);
                 c.Alumnos = GenerarAlumnosAlAzar(cantRandom);
             }
         }
