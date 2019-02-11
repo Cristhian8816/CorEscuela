@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "ProjectFilePath": "c:\\Users\\Doc Alma Lizcano\\dropbox\\programacion\\Curso de C# con Net Core\\Etapa5\\Etapa1.csproj",
+=======
+  "ProjectFilePath": "c:\\Users\\Doc Alma Lizcano\\dropbox\\programacion\\Curso Fundamentos de C# con Net Core\\etapa4\\Etapa1.csproj",
+>>>>>>> origin/master
   "TargetFramework": "netcoreapp2.2",
   "TagHelpers": [],
   "Configuration": {

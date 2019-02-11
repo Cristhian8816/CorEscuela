@@ -42,6 +42,7 @@ C:\Users\Doc Alma Lizcano\dropbox\programacion\Curso Fundamentos de C# con Net C
 C:\Users\Doc Alma Lizcano\dropbox\programacion\Curso Fundamentos de C# con Net Core\etapa4\obj\Debug\netcoreapp2.2\Etapa1.AssemblyInfo.cs
 C:\Users\Doc Alma Lizcano\dropbox\programacion\Curso Fundamentos de C# con Net Core\etapa4\obj\Debug\netcoreapp2.2\Etapa1.dll
 C:\Users\Doc Alma Lizcano\dropbox\programacion\Curso Fundamentos de C# con Net Core\etapa4\obj\Debug\netcoreapp2.2\Etapa1.pdb
+<<<<<<< HEAD
 C:\Users\Doc Alma Lizcano\dropbox\programacion\Curso de C# con Net Core\Etapa5\bin\Debug\netcoreapp2.2\Etapa1.deps.json
 C:\Users\Doc Alma Lizcano\dropbox\programacion\Curso de C# con Net Core\Etapa5\bin\Debug\netcoreapp2.2\Etapa1.runtimeconfig.json
 C:\Users\Doc Alma Lizcano\dropbox\programacion\Curso de C# con Net Core\Etapa5\bin\Debug\netcoreapp2.2\Etapa1.runtimeconfig.dev.json
@@ -53,3 +54,5 @@ C:\Users\Doc Alma Lizcano\dropbox\programacion\Curso de C# con Net Core\Etapa5\o
 C:\Users\Doc Alma Lizcano\dropbox\programacion\Curso de C# con Net Core\Etapa5\obj\Debug\netcoreapp2.2\Etapa1.AssemblyInfo.cs
 C:\Users\Doc Alma Lizcano\dropbox\programacion\Curso de C# con Net Core\Etapa5\obj\Debug\netcoreapp2.2\Etapa1.dll
 C:\Users\Doc Alma Lizcano\dropbox\programacion\Curso de C# con Net Core\Etapa5\obj\Debug\netcoreapp2.2\Etapa1.pdb
+=======
+>>>>>>> origin/master

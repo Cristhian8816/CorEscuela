@@ -10,12 +10,20 @@ namespace CorEscuela
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             var engine = new EscuelaEngine();
             engine.Inicializar(); 
             Printer.writeTitle("Bienvenidos a la Escuela");
             Printer.Beep();
             ImprimirCursosEscuela(engine.Escuela);
             var listaObjetos = engine.GetObjetosEscuela();              
+=======
+           var engine = new EscuelaEngine();
+           engine.Inicializar(); 
+           Printer.writeTitle("Bienvenidos a la Escuela");
+           Printer.Beep();
+           ImprimirCursosEscuela(engine.Escuela);           
+>>>>>>> origin/master
         }
         private static void ImprimirCursosEscuela(Escuela escuela)
         {

@@ -5,7 +5,11 @@ using CorEscuela.Entidades;
 
 namespace CorEscuela.Entidades
 {
+<<<<<<< HEAD
     public sealed class EscuelaEngine
+=======
+    public class EscuelaEngine
+>>>>>>> origin/master
     {        
         public Escuela Escuela { get; set; }
         public EscuelaEngine()
@@ -22,7 +26,11 @@ namespace CorEscuela.Entidades
 
         private void CargarEvaluaciones()
         {
+<<<<<<< HEAD
             //var lista = new List<Evaluacion>();
+=======
+            var lista = new List<Evaluacion>();
+>>>>>>> origin/master
             foreach (var curso in Escuela.Cursos)
             {
                 foreach (var asignatura in curso.Asignaturas)
@@ -40,13 +48,19 @@ namespace CorEscuela.Entidades
                                 Nota = (float)(5* rnd.NextDouble()),
                                 Alumno = alumno
                             };
+<<<<<<< HEAD
                             alumno.Evaluaciones.Add(evaluacion);                            
                         }                                                  
+=======
+                            lista.Add(evaluacion);
+                        }                          
+>>>>>>> origin/master
                     }
                 }
             }
         }
 
+<<<<<<< HEAD
         public List<ObjetoEscuelaBase> GetObjetosEscuela()
         {
            var listObj = new List<ObjetoEscuelaBase>();
@@ -67,6 +81,8 @@ namespace CorEscuela.Entidades
            return listObj;
         }
 
+=======
+>>>>>>> origin/master
         private void CargarAsignaturas()
         {
             foreach (var curso in Escuela.Cursos)
@@ -112,7 +128,10 @@ namespace CorEscuela.Entidades
                 c.Alumnos = GenerarAlumnosAlAzar(cantRandom);
             }
         }
+<<<<<<< HEAD
         
+=======
+>>>>>>> origin/master
     }
 }
  

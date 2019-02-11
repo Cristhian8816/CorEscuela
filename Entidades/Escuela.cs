@@ -1,11 +1,26 @@
 using System;
 using System.Collections.Generic;
+<<<<<<< HEAD
 using CorEscuela.Entidades;
 
 namespace CorEscuela.Entidades
 {
     public class Escuela: ObjetoEscuelaBase
     {     
+=======
+
+namespace CorEscuela.Entidades
+{
+    public class Escuela
+    {
+        public string UniqueId { get; private set; } = Guid.NewGuid().ToString();
+        string nombre;
+        public string Nombre
+        {
+            get { return "Copia:" + nombre; }
+            set { nombre = value.ToUpper(); }
+        }
+>>>>>>> origin/master
         public int añoCreacion {get; set;}
         public string pais { get; set; }
         public string ciudad {get; set;}
